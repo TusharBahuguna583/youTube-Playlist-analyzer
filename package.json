@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "fs": "^0.0.1-security",
+    "pdfkit": "^0.14.0",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^21.6.1"
+  }
+}
